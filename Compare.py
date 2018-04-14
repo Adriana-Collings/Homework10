@@ -21,3 +21,5 @@ SupportMarkov.print_comparative_outcomes(simOutputs_none, simOutputs_anticoag)
 
 SupportMarkov.report_CEA_CBA(simOutputs_none, simOutputs_anticoag)
 
+print("The willingness to pay should be $20,000")
+
